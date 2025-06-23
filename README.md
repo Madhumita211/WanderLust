@@ -17,15 +17,6 @@ WanderLust is a full-stack travel management platform designed to help users exp
 - Map integration with Mapbox
 - Image storage via Cloudinary
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js
-- MongoDB Atlas account
-- Mapbox token
-- Cloudinary account
-
 ## 📁 Project Structure
 
 WanderLust/
@@ -40,6 +31,15 @@ WanderLust/
 ├── schema.js # Input validation schemas
 ├── app.js # Main app entry point
 ├── package.json # Project metadata and dependencies
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- MongoDB Atlas account
+- Mapbox token
+- Cloudinary account
 
 ### Installation
 
