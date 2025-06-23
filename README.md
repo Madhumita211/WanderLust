@@ -70,7 +70,7 @@ npm install
 
 #### Set environment variables
 #### (MongoDB URI, Cloudinary keys, Mapbox token, etc.)
-####Create a .env file and add the following:
+##### Create a .env file and add the following:
 
 ```
 MONGO_URI=your_mongodb_connection_string
