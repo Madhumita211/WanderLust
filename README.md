@@ -21,15 +21,25 @@ WanderLust is a full-stack travel management platform designed to help users exp
 
 WanderLust/
 ├── controllers/ # Logic for route handling
+
 ├── models/ # Mongoose schemas
+
 ├── public/ # Static assets (CSS, JS, images)
+
 ├── routes/ # Express route files
+
 ├── utils/ # Utility functions
+
 ├── views/ # EJS templates
+
 ├── middleware.js # Custom middleware
+
 ├── cloudConfig.js # Cloudinary configuration
+
 ├── schema.js # Input validation schemas
+
 ├── app.js # Main app entry point
+
 ├── package.json # Project metadata and dependencies
 
 ## 🚀 Getting Started
