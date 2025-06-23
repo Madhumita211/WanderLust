@@ -54,22 +54,23 @@ WanderLust/
 
 ### Installation
 
-# Clone the repository
+
+#### Clone the repository
 
 ```
 git clone https://github.com/Madhumita211/WanderLust.git
 cd WanderLust
 ```
 
-# Install server dependencies
+#### Install server dependencies
 
 ```
 npm install
 ```
 
-# Set environment variables
-# (MongoDB URI, Cloudinary keys, Mapbox token, etc.)
-#Create a .env file and add the following:
+#### Set environment variables
+#### (MongoDB URI, Cloudinary keys, Mapbox token, etc.)
+####Create a .env file and add the following:
 
 ```
 MONGO_URI=your_mongodb_connection_string
@@ -80,11 +81,12 @@ MAPBOX_TOKEN=your_mapbox_token
 SESSION_SECRET=your_session_secret
 ```
 
-# Run the application
+#### Run the application
 
 ```
 npm start
 ```
+---
 
 ## 💻 Usage
 
@@ -92,6 +94,7 @@ npm start
 - Sign up and log in to manage travel posts
 - Upload places with images and map coordinates
 - Edit or delete your own travel entries
+
 
 ## 📸 Screenshots
 
