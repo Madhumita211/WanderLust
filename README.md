@@ -20,6 +20,7 @@ WanderLust is a full-stack travel management platform designed to help users exp
 ## 📁 Project Structure
 
 WanderLust/
+
 ├── controllers/ # Logic for route handling
 
 ├── models/ # Mongoose schemas
