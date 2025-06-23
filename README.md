@@ -87,8 +87,11 @@ npm start
 ## 📬 Contact
 
 Madhumita Das
+
 📧 madhumita021199@gmail.com
+
 🔗 GitHub: https://github.com/Madhumita211
+
 🔗 LinkedIn: https://www.linkedin.com/in/madhumita-das211/
 
 ## 📄 License
