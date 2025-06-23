@@ -88,8 +88,8 @@ npm start
 
 Madhumita Das
 📧 madhumita021199@gmail.com
-🔗 GitHub
-🔗 LinkedIn
+🔗 GitHub: https://github.com/Madhumita211
+🔗 LinkedIn: https://www.linkedin.com/in/madhumita-das211/
 
 ## 📄 License
 
