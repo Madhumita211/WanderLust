@@ -54,27 +54,35 @@ WanderLust/
 
 ### Installation
 
-```bash
 # Clone the repository
+
+```
 git clone https://github.com/Madhumita211/WanderLust.git
 cd WanderLust
+```
 
 # Install server dependencies
+
+```
 npm install
+```
 
 # Set environment variables
 # (MongoDB URI, Cloudinary keys, Mapbox token, etc.)
 #Create a .env file and add the following:
 
+```
 MONGO_URI=your_mongodb_connection_string
 CLOUD_NAME=your_cloudinary_name
 CLOUD_API_KEY=your_cloudinary_api_key
 CLOUD_API_SECRET=your_cloudinary_api_secret
 MAPBOX_TOKEN=your_mapbox_token
 SESSION_SECRET=your_session_secret
-
+```
 
 # Run the application
+
+```
 npm start
 ```
 
