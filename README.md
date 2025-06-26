@@ -107,15 +107,10 @@ npm start
 ![WanderLust Listing Page](https://github.com/user-attachments/assets/b78fea30-9a3d-4a4c-80aa-017f0a81516c)
 
 ## 📬 Contact
-
 Madhumita Das
-
-📧 madhumita021199@gmail.com
-
-🔗 GitHub: https://github.com/Madhumita211
-
-🔗 LinkedIn: https://www.linkedin.com/in/madhumita-das211/
+- 📧 madhumita021199@gmail.com
+- 🔗 GitHub: https://github.com/Madhumita211
+- 🔗 LinkedIn: https://www.linkedin.com/in/madhumita-das211/
 
 ## 📄 License
-
 This project is licensed under the [MIT License](LICENSE).
